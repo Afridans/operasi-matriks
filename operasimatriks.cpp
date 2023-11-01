@@ -99,6 +99,7 @@ void kurang(){
     cout<<"Untuk Pengurangan, baris dan kolom matriks A harus sama dengan Matriks B"<<endl;
     }
 }
+
 void kali(){
     if(kolomA==barisB){
         cout<<"Hasil Perkalian Matriks\n";
