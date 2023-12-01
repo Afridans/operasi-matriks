@@ -1,2 +1,2 @@
 # operasi-matriks
-kalkulator sederhana dengan menggunakan basa pemrograman c++
+kalkulator sederhana dengan menggunakan bahasa pemrograman c++
